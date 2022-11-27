@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>qtquickcontrols2.conf</file>
+        <file>ItemOne.qml</file>
+        <file>ItemTwo.qml</file>
+    </qresource>
+    <qresource prefix="/image">
+        <file>mainFon.jpeg</file>
+        <file>budge.png</file>
+        <file>database.png</file>
+    </qresource>
+</RCC>
